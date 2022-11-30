@@ -100,7 +100,7 @@ namespace ChaseLab4
             bool goodData = int.TryParse(txtPeople.Text, out people);
 
            //this displays an error message if the input is not an integer
-            if (goodData = false)
+            if (goodData == false)
             {
                 string dspMessage = "People must be a whole number";
                 string dspTitle = "Input Error";
@@ -138,7 +138,7 @@ namespace ChaseLab4
                 //this displays the price if cash was chosen
                 if (radCash.Checked == true)
                 {
-                    price = price - price * DISCOUNT;
+                    price = price - (price * DISCOUNT);
 
                     lblPrice.Text = price.ToString("c2");
                 }
@@ -211,8 +211,8 @@ namespace ChaseLab4
                 //this shows the BOGO message if 1 or 3 are chosen
                 switch (txtPeople.Text)
                 {
-                    case: "1"
-                    case: "3"
+                    case "1":
+                    case "3":
                        string dspMessage = "Special when booking single or triple." + "\n" +
                             "BOGO Special - Call 555-1212 to receive another person free!";
                         string dspTitle = "Limited Time Offer";
