@@ -1,0 +1,33 @@
+C:\Users\ba-ch\OneDrive\Documents\Coding practice\Cannabis Calculator\ChaseLab4\ChaseLab4\bin\Debug\ChaseLab4.exe.config
+C:\Users\ba-ch\OneDrive\Documents\Coding practice\Cannabis Calculator\ChaseLab4\ChaseLab4\bin\Debug\ChaseLab4.exe
+C:\Users\ba-ch\OneDrive\Documents\Coding practice\Cannabis Calculator\ChaseLab4\ChaseLab4\bin\Debug\ChaseLab4.pdb
+C:\Users\ba-ch\OneDrive\Documents\Coding practice\Cannabis Calculator\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.csproj.AssemblyReference.cache
+C:\Users\ba-ch\OneDrive\Documents\Coding practice\Cannabis Calculator\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ba-ch\OneDrive\Documents\Coding practice\Cannabis Calculator\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.Form1.resources
+C:\Users\ba-ch\OneDrive\Documents\Coding practice\Cannabis Calculator\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.Properties.Resources.resources
+C:\Users\ba-ch\OneDrive\Documents\Coding practice\Cannabis Calculator\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.csproj.GenerateResource.cache
+C:\Users\ba-ch\OneDrive\Documents\Coding practice\Cannabis Calculator\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.csproj.CoreCompileInputs.cache
+C:\Users\ba-ch\OneDrive\Documents\Coding practice\Cannabis Calculator\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.exe
+C:\Users\ba-ch\OneDrive\Documents\Coding practice\Cannabis Calculator\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.pdb
+C:\Users\ba-ch\OneDrive\Documents\Course Content (Intro to Programming)\Labs\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.csproj.AssemblyReference.cache
+C:\Users\ba-ch\OneDrive\Documents\Course Content (Intro to Programming)\Labs\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ba-ch\OneDrive\Documents\Course Content (Intro to Programming)\Labs\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.Form1.resources
+C:\Users\ba-ch\OneDrive\Documents\Course Content (Intro to Programming)\Labs\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.Properties.Resources.resources
+C:\Users\ba-ch\OneDrive\Documents\Course Content (Intro to Programming)\Labs\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.csproj.GenerateResource.cache
+C:\Users\ba-ch\OneDrive\Documents\Course Content (Intro to Programming)\Labs\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.csproj.CoreCompileInputs.cache
+C:\Users\ba-ch\OneDrive\Documents\Course Content (Intro to Programming)\Labs\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.exe
+C:\Users\ba-ch\OneDrive\Documents\Course Content (Intro to Programming)\Labs\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.pdb
+C:\Users\ba-ch\OneDrive\Documents\Course Content (Intro to Programming)\Labs\ChaseLab4\ChaseLab4\bin\Debug\ChaseLab4.exe.config
+C:\Users\ba-ch\OneDrive\Documents\Course Content (Intro to Programming)\Labs\ChaseLab4\ChaseLab4\bin\Debug\ChaseLab4.exe
+C:\Users\ba-ch\OneDrive\Documents\Course Content (Intro to Programming)\Labs\ChaseLab4\ChaseLab4\bin\Debug\ChaseLab4.pdb
+C:\Users\ba-ch\OneDrive\Documents\Courses\Intro to Dev tools\Assignments\ChaseA3\ChaseLab4\ChaseLab4\bin\Debug\ChaseLab4.exe.config
+C:\Users\ba-ch\OneDrive\Documents\Courses\Intro to Dev tools\Assignments\ChaseA3\ChaseLab4\ChaseLab4\bin\Debug\ChaseLab4.exe
+C:\Users\ba-ch\OneDrive\Documents\Courses\Intro to Dev tools\Assignments\ChaseA3\ChaseLab4\ChaseLab4\bin\Debug\ChaseLab4.pdb
+C:\Users\ba-ch\OneDrive\Documents\Courses\Intro to Dev tools\Assignments\ChaseA3\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.csproj.AssemblyReference.cache
+C:\Users\ba-ch\OneDrive\Documents\Courses\Intro to Dev tools\Assignments\ChaseA3\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ba-ch\OneDrive\Documents\Courses\Intro to Dev tools\Assignments\ChaseA3\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.Form1.resources
+C:\Users\ba-ch\OneDrive\Documents\Courses\Intro to Dev tools\Assignments\ChaseA3\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.Properties.Resources.resources
+C:\Users\ba-ch\OneDrive\Documents\Courses\Intro to Dev tools\Assignments\ChaseA3\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.csproj.GenerateResource.cache
+C:\Users\ba-ch\OneDrive\Documents\Courses\Intro to Dev tools\Assignments\ChaseA3\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.csproj.CoreCompileInputs.cache
+C:\Users\ba-ch\OneDrive\Documents\Courses\Intro to Dev tools\Assignments\ChaseA3\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.exe
+C:\Users\ba-ch\OneDrive\Documents\Courses\Intro to Dev tools\Assignments\ChaseA3\ChaseLab4\ChaseLab4\obj\Debug\ChaseLab4.pdb
